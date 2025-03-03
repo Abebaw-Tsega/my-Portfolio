@@ -32,7 +32,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import jQuery from "./tech/jQuery.png";
-import express from "./tech/express.png";
+import express from "./tech/Express.png";
 
 export {
   logo,
