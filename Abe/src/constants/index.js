@@ -24,7 +24,7 @@ import {
   shopify,
   jQuery,
   jobit,
-  tripguide,
+  trpguide,
   threejs,
   carrent,
 } from "../assets";
@@ -242,9 +242,9 @@ const projects = [
     live: "https://abebaw-tsega.github.io/Netflix-clone-2024/",
   },
   {
-    name: "Apple Clone",
+    name: "Evangadi Forum",
     description:
-      "A web-based platform mimicking Apple's ecosystem, allowing users to explore, purchase, and manage products, apps, and services. It offers a sleek, user-friendly interface for a premium digital experience.",
+      "A web-based platform that allows users to post questions, provide answers, and engage in discussions, offering a seamless forum experience similar to Evangadi Forum. It helps for interactive knowledge sharing.",
     tags: [
       {
         name: "react",
@@ -255,13 +255,13 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/Abebaw-Tsega/Apple-website",
-    live: "https://abe-route.netlify.app/",
+    image: trpguide,
+    source_code_link: "https://github.com/Abebaw-Tsega/Evangadi-forum",
+    live: "https://evangadi-forum-client-alpha.vercel.app/",
   },
 ];
 
